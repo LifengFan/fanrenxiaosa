@@ -1823,7 +1823,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #da12f6;
+  background: #a4ff9f;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3024,13 +3024,86 @@ pre .javascript .function {
 /* 侧边栏字体大小 */
   --font-size-sidebar: var(--font-size-nav);
 }
+:root {
+  --body-bg-color: #142c52; /* 网站主体背景色 */
+  --content-bg-color: #e9f0ff; /* 内容背景色 */
+  --card-bg-color: #c2d2e8; /* 卡片背景色 */
+  --text-color: #0e0e43; /* 主要文本颜色 */
+  --blockquote-color: #e0e7f1; /* 引用块颜色 */
+  --link-color: #0a0e28; /* 链接颜色 */
+  --link-hover-color: #5d71b0; /* 链接悬停颜色 */
+  --brand-color: #fff; /* 品牌颜色 */
+  --brand-hover-color: #fff; /* 品牌悬停颜色 */
+  --table-row-odd-bg-color: #f9f9f9; /* 表格奇数行背景色 */
+  --table-row-hover-bg-color: #c2d2e8; /* 表格行悬停背景色 */
+  --menu-item-bg-color: #c2d2e8; /* 菜单项背景色 */
+  --btn-default-bg: #fff; /* 默认按钮背景色 */
+  --btn-default-color: #0e0e43; /* 默认按钮文本颜色 */
+  --btn-default-border-color: #0e0e43; /* 默认按钮边框颜色 */
+  --btn-default-hover-bg: #5d71b0; /* 默认按钮悬停背景色 */
+  --btn-default-hover-color: #fff; /* 默认按钮悬停文本颜色 */
+  --btn-default-hover-border-color: #5d71b0; /* 默认按钮悬停边框颜色 */
+  --highlight-background: #f0f0f0; /* 高亮背景色 */
+  --highlight-foreground: #444; /* 高亮前景色 */
+  --highlight-gutter-background: #dedede; /* 高亮边沟背景色 */
+  --highlight-gutter-foreground: #555; /* 高亮边沟前景色 */
+}
 body {
+  background: var(--body-bg-color);
+  color: var(--text-color);
   font-family: var(--font-family-body);
   font-size: var(--font-size-body);
   line-height: 2;
   min-height: 100%;
   position: relative;
   transition: all 0.2s ease-in-out;
+}
+.content {
+  background-color: var(--content-bg-color);
+}
+.card {
+  background-color: var(--card-bg-color);
+}
+p,
+span,
+div {
+  color: var(--text-color);
+}
+blockquote {
+  background-color: var(--blockquote-color);
+}
+a {
+  color: var(--link-color);
+}
+a:hover {
+  color: var(--link-hover-color);
+}
+table tr:nth-child(odd) {
+  background-color: var(--table-row-odd-bg-color);
+}
+table tr:hover {
+  background-color: var(--table-row-hover-bg-color);
+}
+.menu-item {
+  background-color: var(--content-bg-color);
+}
+.btn-default {
+  background-color: var(--btn-default-bg);
+  color: var(--btn-default-color);
+  border-color: var(--btn-default-border-color);
+}
+.btn-default:hover {
+  background-color: var(--btn-default-hover-bg);
+  color: var(--btn-default-hover-color);
+  border-color: var(--btn-default-hover-border-color);
+}
+.highlight {
+  background-color: var(--highlight-background);
+  color: var(--highlight-foreground);
+}
+.highlight-gutter {
+  background-color: var(--highlight-gutter-background);
+  color: var(--highlight-gutter-foreground);
 }
 h1,
 h2,
@@ -3042,5 +3115,5 @@ h6 {
   font-weight: bold;
   line-height: 1.5;
   margin: 20px 0 15px;
-  color: #0e0e43;
+  background-color: var(--content-bg-color); /* 如果你想为所有标题设置特定背景颜色 */
 }
