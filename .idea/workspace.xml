@@ -5,10 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0be7b62b-515f-46e9-96e6-1b2f0f00b99d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/source/_posts/Agent-and-World-Model.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/“-你好吗？我很好。”.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/我的前半生.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/由《鲁迅画传》想到的.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/_posts/这是我的黄金时代.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/themes/next/source/css/_colors.styl" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/themes/next/source/css/_fonts.styl" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/themes/next/source/css/main_backup.styl" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/保持好奇与热情.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/next" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/next/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next/_config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/next/layout/_macro/sidebar.swig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next/layout/_macro/sidebar.swig" afterDir="false" />
@@ -24,7 +30,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/themes/next" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -59,6 +65,16 @@
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0be7b62b-515f-46e9-96e6-1b2f0f00b99d" name="Changes" comment="" />
+      <created>1709968837048</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709968837048</updated>
+    </task>
+    <servers />
+  </component>
   <component name="Vcs.Log.History.Properties">
     <option name="COLUMN_ID_ORDER">
       <list>
