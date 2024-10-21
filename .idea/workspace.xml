@@ -5,19 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0be7b62b-515f-46e9-96e6-1b2f0f00b99d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/themes/next/source/css/_colors.styl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/next/source/css/_fonts.styl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/next/source/css/main_backup.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/Agent-and-World-Model.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/next" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/next/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/next/layout/_macro/sidebar.swig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next/layout/_macro/sidebar.swig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/next/layout/_partials/footer.swig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next/layout/_partials/footer.swig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/next/source/css/_custom/custom.styl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next/source/css/_custom/custom.styl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/next/source/css/_schemes/Pisces/_brand.styl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next/source/css/_schemes/Pisces/_brand.styl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/next/source/css/_variables/Pisces.styl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next/source/css/_variables/Pisces.styl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/next/source/css/main.styl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/next/source/css/main.styl" afterDir="false" />
+
+      <change beforePath="$PROJECT_DIR$/source/_posts/“-你好吗？我很好。”.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/“-你好吗？我很好。”.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/由《鲁迅画传》想到的.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/由《鲁迅画传》想到的.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +33,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< HEAD
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
@@ -49,12 +42,22 @@
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Users/lifengfan/fanrenxiaosa&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.fileTypes&quot;
+=======
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/lifengfan/frxs-src",
+    "settings.editor.selected.configurable": "preferences.fileTypes"
+>>>>>>> bd3d6d66594205f0cd779eb466460a9ee69d87a9
   },
-  &quot;keyToStringList&quot;: {
-    &quot;stardust.markdown.MarkdownSplitEditorSuppressor:keyList&quot;: [
+  "keyToStringList": {
+    "stardust.markdown.MarkdownSplitEditorSuppressor:keyList": [
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/themes/next/source/css" />
@@ -71,10 +74,17 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="0be7b62b-515f-46e9-96e6-1b2f0f00b99d" name="Changes" comment="" />
+<<<<<<< HEAD
       <created>1712238910034</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1712238910034</updated>
+=======
+      <created>1709968837048</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709968837048</updated>
+>>>>>>> bd3d6d66594205f0cd779eb466460a9ee69d87a9
     </task>
     <servers />
   </component>
